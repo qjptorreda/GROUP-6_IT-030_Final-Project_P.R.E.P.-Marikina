@@ -1,0 +1,10 @@
+name: marikina_app_clean
+title:
+username: prep-marikina-analytics
+account: prep-marikina-analytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17479983
+bundleId: 12097345
+url: https://prep-marikina-analytics.shinyapps.io/marikina_app_clean/
+version: 1
